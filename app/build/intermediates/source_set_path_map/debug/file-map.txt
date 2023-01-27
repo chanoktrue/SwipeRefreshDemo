@@ -1,0 +1,43 @@
+com.example.swiperefreshdemo.app-animation-core-1.1.1-0 /Users/thongchaisubsaidee/.gradle/caches/transforms-3/0e4846d03c40592ccaf740d0bb09ae31/transformed/animation-core-1.1.1/res
+com.example.swiperefreshdemo.app-ui-tooling-data-1.2.0-1 /Users/thongchaisubsaidee/.gradle/caches/transforms-3/0ebaab558ec6b34f42097a3a7f9109db/transformed/ui-tooling-data-1.2.0/res
+com.example.swiperefreshdemo.app-ui-1.2.1-2 /Users/thongchaisubsaidee/.gradle/caches/transforms-3/134e105686715786bb12a779c86c8b68/transformed/ui-1.2.1/res
+com.example.swiperefreshdemo.app-animation-1.1.1-3 /Users/thongchaisubsaidee/.gradle/caches/transforms-3/14c32f4821b7b7819d80f8fe9ec873bd/transformed/animation-1.1.1/res
+com.example.swiperefreshdemo.app-ui-text-1.2.1-4 /Users/thongchaisubsaidee/.gradle/caches/transforms-3/15f125bbdf79774f9dde2b73cb2d1b6a/transformed/ui-text-1.2.1/res
+com.example.swiperefreshdemo.app-runtime-1.2.1-5 /Users/thongchaisubsaidee/.gradle/caches/transforms-3/2a0c0015f02f5c8f87b4be5b4de8d8c5/transformed/runtime-1.2.1/res
+com.example.swiperefreshdemo.app-lifecycle-viewmodel-savedstate-2.5.1-6 /Users/thongchaisubsaidee/.gradle/caches/transforms-3/2bd7c08dc2101072018a9c517e1829d4/transformed/lifecycle-viewmodel-savedstate-2.5.1/res
+com.example.swiperefreshdemo.app-foundation-layout-1.2.1-7 /Users/thongchaisubsaidee/.gradle/caches/transforms-3/36735d2a1cb90ff43d219f5c0820bed8/transformed/foundation-layout-1.2.1/res
+com.example.swiperefreshdemo.app-annotation-experimental-1.3.0-8 /Users/thongchaisubsaidee/.gradle/caches/transforms-3/40c4f4a0ee083b4a0e4a59ea0f4f143f/transformed/annotation-experimental-1.3.0/res
+com.example.swiperefreshdemo.app-activity-1.3.1-9 /Users/thongchaisubsaidee/.gradle/caches/transforms-3/40fa7844327f5cc4650026fefb8d472b/transformed/activity-1.3.1/res
+com.example.swiperefreshdemo.app-startup-runtime-1.1.1-10 /Users/thongchaisubsaidee/.gradle/caches/transforms-3/43f99381cefd36ffb8582e7ec30f6462/transformed/startup-runtime-1.1.1/res
+com.example.swiperefreshdemo.app-ui-tooling-preview-1.2.0-11 /Users/thongchaisubsaidee/.gradle/caches/transforms-3/43fcdfb64880cf398fcec23153520eb6/transformed/ui-tooling-preview-1.2.0/res
+com.example.swiperefreshdemo.app-material-1.2.1-12 /Users/thongchaisubsaidee/.gradle/caches/transforms-3/443f168941d0af8947798c2b548b5e82/transformed/material-1.2.1/res
+com.example.swiperefreshdemo.app-ui-test-manifest-1.2.0-13 /Users/thongchaisubsaidee/.gradle/caches/transforms-3/4917c8d76a9d484896973cb08c509b9f/transformed/ui-test-manifest-1.2.0/res
+com.example.swiperefreshdemo.app-ui-graphics-1.2.1-14 /Users/thongchaisubsaidee/.gradle/caches/transforms-3/4b14fca65f88dc39ee73a8c9d73fd0e8/transformed/ui-graphics-1.2.1/res
+com.example.swiperefreshdemo.app-material-icons-core-1.2.1-15 /Users/thongchaisubsaidee/.gradle/caches/transforms-3/4b2c7a9fedc3f4957d994cf7bbf93a92/transformed/material-icons-core-1.2.1/res
+com.example.swiperefreshdemo.app-savedstate-ktx-1.2.0-16 /Users/thongchaisubsaidee/.gradle/caches/transforms-3/50458f41d388f7da6fa8ee0af985ab02/transformed/savedstate-ktx-1.2.0/res
+com.example.swiperefreshdemo.app-core-ktx-1.10.0-alpha02-17 /Users/thongchaisubsaidee/.gradle/caches/transforms-3/55d9a74d88176fdc01731151ebf4132b/transformed/core-ktx-1.10.0-alpha02/res
+com.example.swiperefreshdemo.app-material-ripple-1.2.1-18 /Users/thongchaisubsaidee/.gradle/caches/transforms-3/566b92c584523096dba59a4f480faa14/transformed/material-ripple-1.2.1/res
+com.example.swiperefreshdemo.app-lifecycle-viewmodel-compose-2.5.1-19 /Users/thongchaisubsaidee/.gradle/caches/transforms-3/5dfb1e6746a7a0ca65bc1ee8cd682a27/transformed/lifecycle-viewmodel-compose-2.5.1/res
+com.example.swiperefreshdemo.app-ui-tooling-1.2.0-20 /Users/thongchaisubsaidee/.gradle/caches/transforms-3/73dee6bc4ac300b05e8c71d5ecdd018a/transformed/ui-tooling-1.2.0/res
+com.example.swiperefreshdemo.app-profileinstaller-1.2.0-21 /Users/thongchaisubsaidee/.gradle/caches/transforms-3/8a1abbefbbd24d0afcc5a1a089ddc696/transformed/profileinstaller-1.2.0/res
+com.example.swiperefreshdemo.app-savedstate-1.2.0-22 /Users/thongchaisubsaidee/.gradle/caches/transforms-3/8d462db627903bc107f30704f2c8313d/transformed/savedstate-1.2.0/res
+com.example.swiperefreshdemo.app-ui-geometry-1.2.1-23 /Users/thongchaisubsaidee/.gradle/caches/transforms-3/8eba2c45bc976b76a51395f3f62817ef/transformed/ui-geometry-1.2.1/res
+com.example.swiperefreshdemo.app-ui-util-1.2.1-24 /Users/thongchaisubsaidee/.gradle/caches/transforms-3/9b85ad27614f4d21ea0acbb105958404/transformed/ui-util-1.2.1/res
+com.example.swiperefreshdemo.app-lifecycle-viewmodel-ktx-2.5.1-25 /Users/thongchaisubsaidee/.gradle/caches/transforms-3/9ff9db9a401e7d55c8d97c93cac184dd/transformed/lifecycle-viewmodel-ktx-2.5.1/res
+com.example.swiperefreshdemo.app-runtime-saveable-1.2.1-26 /Users/thongchaisubsaidee/.gradle/caches/transforms-3/b9edff258afc2913005a54ff53dd421a/transformed/runtime-saveable-1.2.1/res
+com.example.swiperefreshdemo.app-ui-unit-1.2.1-27 /Users/thongchaisubsaidee/.gradle/caches/transforms-3/c0624f7859fe32bd92e23892f413a6fb/transformed/ui-unit-1.2.1/res
+com.example.swiperefreshdemo.app-lifecycle-livedata-core-2.5.1-28 /Users/thongchaisubsaidee/.gradle/caches/transforms-3/c575a14f5e9ac080107aabc5020165f9/transformed/lifecycle-livedata-core-2.5.1/res
+com.example.swiperefreshdemo.app-activity-compose-1.3.1-29 /Users/thongchaisubsaidee/.gradle/caches/transforms-3/c58c89c7dad2ec2e4f643b30ea7997d6/transformed/activity-compose-1.3.1/res
+com.example.swiperefreshdemo.app-activity-ktx-1.3.1-30 /Users/thongchaisubsaidee/.gradle/caches/transforms-3/ccb1f3fc41dbeb5c5fa3fe8144446b8e/transformed/activity-ktx-1.3.1/res
+com.example.swiperefreshdemo.app-lifecycle-viewmodel-2.5.1-31 /Users/thongchaisubsaidee/.gradle/caches/transforms-3/cd5c7536f3bb9016dd8ff72ed162f496/transformed/lifecycle-viewmodel-2.5.1/res
+com.example.swiperefreshdemo.app-lifecycle-runtime-2.3.1-32 /Users/thongchaisubsaidee/.gradle/caches/transforms-3/d490d5653d9e6d7e74c927f9fa9e23ea/transformed/lifecycle-runtime-2.3.1/res
+com.example.swiperefreshdemo.app-core-1.10.0-alpha02-33 /Users/thongchaisubsaidee/.gradle/caches/transforms-3/da3fe65edbb678a7a8628acb448c1dd5/transformed/core-1.10.0-alpha02/res
+com.example.swiperefreshdemo.app-foundation-1.2.1-34 /Users/thongchaisubsaidee/.gradle/caches/transforms-3/ea0118228f6cfaa321f6d5227d1a6554/transformed/foundation-1.2.1/res
+com.example.swiperefreshdemo.app-customview-poolingcontainer-1.0.0-35 /Users/thongchaisubsaidee/.gradle/caches/transforms-3/efb6ac074e5c274eaa3b31a1055289df/transformed/customview-poolingcontainer-1.0.0/res
+com.example.swiperefreshdemo.app-resValues-36 /Users/thongchaisubsaidee/Library/CloudStorage/SynologyDrive-Documents/Drive/Android/Android Studio 2021/Test/SwipeRefreshDemo/app/build/generated/res/resValues/debug
+com.example.swiperefreshdemo.app-rs-37 /Users/thongchaisubsaidee/Library/CloudStorage/SynologyDrive-Documents/Drive/Android/Android Studio 2021/Test/SwipeRefreshDemo/app/build/generated/res/rs/debug
+com.example.swiperefreshdemo.app-packageDebugResources-38 /Users/thongchaisubsaidee/Library/CloudStorage/SynologyDrive-Documents/Drive/Android/Android Studio 2021/Test/SwipeRefreshDemo/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.example.swiperefreshdemo.app-packageDebugResources-39 /Users/thongchaisubsaidee/Library/CloudStorage/SynologyDrive-Documents/Drive/Android/Android Studio 2021/Test/SwipeRefreshDemo/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.example.swiperefreshdemo.app-merged_res-40 /Users/thongchaisubsaidee/Library/CloudStorage/SynologyDrive-Documents/Drive/Android/Android Studio 2021/Test/SwipeRefreshDemo/app/build/intermediates/merged_res/debug
+com.example.swiperefreshdemo.app-debug-41 /Users/thongchaisubsaidee/Library/CloudStorage/SynologyDrive-Documents/Drive/Android/Android Studio 2021/Test/SwipeRefreshDemo/app/src/debug/res
+com.example.swiperefreshdemo.app-main-42 /Users/thongchaisubsaidee/Library/CloudStorage/SynologyDrive-Documents/Drive/Android/Android Studio 2021/Test/SwipeRefreshDemo/app/src/main/res
